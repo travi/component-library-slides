@@ -1,6 +1,6 @@
 repository:
   description: Spectacle slide deck for talk about component-library collaboration
-  homepage: 'https://github.com/travi/component-library-slides#readme'
+  homepage: https://component-library.travi.org
   has_wiki: false
   has_projects: false
   has_downloads: false
