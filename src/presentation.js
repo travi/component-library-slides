@@ -19,7 +19,6 @@ import {
   Slide,
   Text
 } from 'spectacle';
-import ImageSlide from 'spectacle-image-slide';
 import preloader from 'spectacle/lib/utils/preloader';
 import 'normalize.css';
 import 'spectacle/lib/themes/default/index.css';
@@ -428,7 +427,7 @@ Stephen Hay
       </Slide>
 
       <Slide>
-        <ImageSlide image={images.atomicDesign.replace('/', '')} />
+        <Image src={images.atomicDesign.replace('/', '')} />
       </Slide>
 
       <Slide>
